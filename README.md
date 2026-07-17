@@ -10,18 +10,29 @@ Building innovative solutions with **Artificial Intelligence, Robotics, IoT, Mob
 
 I'm a passionate software developer, AI enthusiast, robotics engineer, and entrepreneur from **Malawi 🇲🇼**.
 
-As the Founder & CEO of **CYFA Tech Lab**, my mission is to empower young innovators through emerging technologies, digital skills, and impactful software solutions.
+I'm the **Founder & CEO of CYFA Tech Lab**, where I lead the development of AI-powered solutions, robotics innovations, IoT systems, STEM education programs, and modern software products that address real-world challenges across Africa.
 
-I'm passionate about building technology that creates meaningful change in education, agriculture, healthcare, and industry.
+Alongside my entrepreneurial journey, I work at **Qubix Robotics** as a:
+
+- 🤖 STEM Specialist
+- 💻 IT & Network Engineer
+- ⚡ Embedded Systems Engineer
+
+where I contribute to robotics education, embedded systems development, networking infrastructure, electronics, and technology innovation.
+
+I'm passionate about using technology to create meaningful impact in education, agriculture, healthcare, mining, and industry.
+
+---
 
 ### 🌱 Currently Working On
 
-- 🤖 AI-powered applications
+- 🤖 AI-powered Applications
 - 🌾 Mbewu AI (Smart Agriculture Platform)
 - 🛡️ SentinelMine Africa
 - 🌐 Modern SaaS Web Applications
-- 📱 Flutter Mobile Applications
-- 🤖 Robotics & IoT Projects
+- 📱 Cross-platform Mobile Apps with Flutter
+- 🤖 Robotics & Embedded Systems
+- ⚡ IoT Solutions
 - 🎓 STEM & AI Education Programs
 
 ---
